@@ -1,1 +1,1 @@
-# Terraform-Practise
+# Static-web-deployment
